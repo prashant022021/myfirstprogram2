@@ -1,2 +1,5 @@
 # myfirstprogram2
-just another repository for me 
+
+hi humans!
+
+nothing is impossible
